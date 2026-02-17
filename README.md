@@ -1,4 +1,4 @@
-# First demographic-transition-Visualization
+# First demographic transition Visualization
 This project visualizes the First Demographic Transition in selected European countries (Austria, England, France, Sweden) by plotting crude birth and death rates (per 1,000 population) over time.
 
 The first demographic transition is a theoretical concept describing the shift from high
